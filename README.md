@@ -1,4 +1,15 @@
-# OpenPanel releases
+<p align="center">
+  <img alt="OpenPanel icon" src="docs/assets/icon.png" width="96">
+</p>
+
+<h1 align="center">OpenPanel</h1>
+
+<h3 align="center">Kiosk launcher for Android tablets, Google TV and XR headsets</h3>
+
+<p align="center">
+  <a href="https://github.com/orgista/openpanel-releases/releases">Download</a> ·
+  <a href="https://orgista.com/products/openpanel">orgista.com</a>
+</p>
 
 OpenPanel is a kiosk launcher for Android tablets, Google TV and XR headsets.
 It shows an approved set of apps, YouTube videos and channels, and an offline
